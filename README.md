@@ -1,6 +1,6 @@
 Hi I'm ENatics! Your All-In-One EN Bot!
 
-![alt tag](images/main.png)
+![alt tag](images/main1.png)
 
 Table of Contents
 =================
