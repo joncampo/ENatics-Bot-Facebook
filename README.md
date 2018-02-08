@@ -38,5 +38,6 @@ Created by [{\field{\*\fldinst{HYPERLINK "https://github.com/joncampo"}}{\fldrsl
 
 ## Demo
 
-Note: By using this module, you agree to Terms of Service -  and Privacy Policy - 
-
+Note: By using this software, you agree that the author has no liability whatsoever and you agree to Terms of Service and Privacy Policy. 
+See Terms of Service - https://arcane-spire-45844.herokuapp.com/terms
+See Privacy Policy - https://arcane-spire-45844.herokuapp.com/privacy
