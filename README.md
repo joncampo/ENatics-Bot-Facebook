@@ -10,7 +10,7 @@ Table of Contents
       * [Features](#features)
       * [Quick Usage](#quick-usage)
       * [Installation Guide](#installation-guide)
-    * [Demo](#demo)\cf2 \outl0\strokewidth0 \strokec2 \
+    * [Demo](#demo)
 
 Created by [{\field{\*\fldinst{HYPERLINK "https://github.com/joncampo"}}{\fldrslt https://github.com/joncampo}}]
 
