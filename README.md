@@ -1,4 +1,4 @@
-Your All-In-One EN Bot!
+Hi I'm ENatics! Your All-In-One EN Bot!
 ![alt tag](images/main.png)
 
 Table of Contents
@@ -14,11 +14,11 @@ Table of Contents
 Created by [{\field{\*\fldinst{HYPERLINK "https://github.com/joncampo"}}{\fldrslt https://github.com/joncampo}}]
 
 ## Features
-[alt tag](images/what_is.png)
+![alt tag](images/what_is.png)
 
 ## Quick Usage
 
-[alt tag](images/how_to_use.png)
+![alt tag](images/how_to_use.png)
 
 ## Installation Guide
 
