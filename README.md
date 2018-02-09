@@ -1,4 +1,6 @@
-Hi I'm ENatics! Your All-In-One EN Bot!
+# [ENatics-Facebook](https://youtu.be/obak9A9xipQ)
+
+[Hi I'm ENatics! Your All-In-One EN Bot! -> ENatics Presentation and Demo Video](https://youtu.be/obak9A9xipQ)
 
 ![alt tag](images/main.png)
 
@@ -12,7 +14,7 @@ Table of Contents
       * [Installation Guide](#installation-guide)
     * [Demo](#demo)
 
-Created by [{\field{\*\fldinst{HYPERLINK "https://github.com/joncampo"}}{\fldrslt https://github.com/joncampo}}]
+Created by [https://github.com/joncampo]
 
 ## Features
 ![alt tag](images/what_is.png)
@@ -37,6 +39,10 @@ Created by [{\field{\*\fldinst{HYPERLINK "https://github.com/joncampo"}}{\fldrsl
 
 
 ## Demo
+Please See Demo Video!
+[ENatics Presentation and Demo Video](https://youtu.be/obak9A9xipQ)
+https://youtu.be/obak9A9xipQ
+
 
 Note: By using this software, you agree that the author has no liability whatsoever and you agree to Terms of Service and Privacy Policy. 
 See Terms of Service - https://arcane-spire-45844.herokuapp.com/terms
