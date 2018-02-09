@@ -26,16 +26,21 @@ Created by [https://github.com/joncampo]
 ## Installation Guide
 
 1. Download or clone ENatics
-2. Edit Settings.py and enter Platform IP Addresses and user/pass.
-	a. For Spark bot, enter App ID from here - 
-	b. For Facebook bot, enter App ID from here - 
-3. Install the modules/libraries from requirements.txt
-4. Install Heroku Tools
-5. Create Heroku App
-6. Deploy using Heroku procedure below:
+2. Install the modules/libraries from requirements.txt
+3. Install Heroku Tools - https://toolbelt.heroku.com/
+4. Create Heroku App
+5. Deploy using Heroku procedure below:
 	a. git add .
 	b. git commit -m "Update"
 	c. git push heroku master
+6. Get the webhook URL using command -> Heroku open
+6. Edit Settings.py and enter Platform IP Addresses and user/pass.
+	a. For Spark bot, Create and get the Bot Token from here - https://developer.ciscospark.com/apps.html
+	b. For Facebook bot, enter App ID from here - 
+		i. Create a FB Bot Page
+		ii. Create App ID - https://developers.facebook.com/quickstarts/?platform=web
+		iii. Set the Heroku Open Webhook URL and verify token
+		***This is another nice reference for FB bot - https://blog.hartleybrody.com/fb-messenger-bot/
 
 
 ## Demo
