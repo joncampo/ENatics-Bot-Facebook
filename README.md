@@ -1,6 +1,6 @@
-# [ENatics-Facebook](https://youtu.be/obak9A9xipQ)
+# [ENatics-Facebook](https://youtu.be/lZmXtx_qcds)
 
-[Hi I'm ENatics! Your All-In-One EN Bot! -> ENatics Presentation and Demo Video](https://youtu.be/obak9A9xipQ)
+[Hi I'm ENatics! Your All-In-One EN Bot! -> ENatics Presentation and Demo Video](https://youtu.be/lZmXtx_qcds)
 
 ![alt tag](images/main.png)
 
@@ -40,8 +40,8 @@ Created by [https://github.com/joncampo]
 
 ## Demo
 Please See Demo Video!
-[ENatics Presentation and Demo Video](https://youtu.be/obak9A9xipQ)
-https://youtu.be/obak9A9xipQ
+[ENatics Presentation and Demo Video](https://youtu.be/lZmXtx_qcds)
+https://youtu.be/lZmXtx_qcds
 
 
 Note: By using this software, you agree that the author has no liability whatsoever and you agree to Terms of Service and Privacy Policy. 
