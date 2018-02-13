@@ -45,7 +45,7 @@ Created by [https://github.com/joncampo]
 
 ## Demo
 
-Message me on the following to see me work!
+Message me on the following to see me work!<br />
 Facebook - https://www.facebook.com/CiscoENatics <br />
 Cisco Spark - ENatics@sparkbot.io  <br />
 
