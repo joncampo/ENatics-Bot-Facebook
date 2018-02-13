@@ -34,7 +34,7 @@ Created by [https://github.com/joncampo]
 	b. git commit -m "Update" <br />
 	c. git push heroku master <br />
 6. Get the webhook URL using command -> Heroku open
-6. Edit Settings.py and enter Platform IP Addresses and user/pass.
+6. Edit Settings.py and enter Platform IP Addresses and user/pass. <br />
 	a. For Spark bot, Create and get the Bot Token from here - https://developer.ciscospark.com/apps.html <br />
 	b. For Facebook bot, enter App ID from here -  <br />
 		i. Create a FB Bot Page <br />
